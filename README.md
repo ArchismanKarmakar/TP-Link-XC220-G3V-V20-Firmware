@@ -4,7 +4,6 @@
 Hardware version: XC220-G3v v2.X XXXXXXXX </br>
 My ONT Hardware version: XC220 G3v v2.8 XXXXXXXX
 
-
 My ISP: Bharat Sanchar Nigam Limited, Calcutta Telephones
 
 # TP-Link Ltd GPL Open Source Code for Firmware & Firmware Development
