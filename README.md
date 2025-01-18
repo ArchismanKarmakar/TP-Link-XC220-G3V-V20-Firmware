@@ -4,7 +4,7 @@
 Hardware version: XC220-G3v v2.X XXXXXXXX  
 My ONT Hardware version: XC220 G3v v2.8 XXXXXXXX  
 My ISP: Bharat Sanchar Nigam Limited, Calcutta Telephones  
-This ONU has no issues related to hardware and firmware, any such issues are mostly due to ISP end, OLT support or configuration problem.  
+This ONU has no issues related to hardware and firmware, any such issues are mostly due to ISP end, OLT support or configuration problem. To setup this router go here (upcoming tutorial).
 
 # TP-Link Ltd GPL Open Source Code for Firmware & Firmware Development  
 #### The Source code of the firmware can be downloaded from [TP-Link GPL Code Base](https://www.tp-link.com/br/support/gpl-code/). Anyone can use this to customize the firmware and contribute to the developmemnt of this, but only after backtesting it.  
