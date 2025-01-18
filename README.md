@@ -6,3 +6,5 @@ My ONT Hardware version: XC220 G3v v2.8 XXXXXXXX
 
 # TP-Link Ltd GPL Open Source Code for Firmware & Firmware Development
 #### The Source code of the firmware can be downloaded from [TP-Link GPL Code Base](https://www.tp-link.com/br/support/gpl-code/). Anyone can use this to customize the firmware and contribute to the developmemnt of this, but only after backtesting it.
+
+# Firmware Post from TPL community [here](https://community.tp-link.com/en/home/forum/topic/653980)
