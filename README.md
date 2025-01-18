@@ -10,8 +10,8 @@ My ISP: Bharat Sanchar Nigam Limited, Calcutta Telephones
 
 # TP Link XC220 G3v V2 (2.x.xxxxxx) Firmware update  
 
-## My Post from TPL community  
-## [POST: TP Link XC220 G3v V2 Firmware update - Home Network Community (tp-link.com)](https://community.tp-link.com/en/home/forum/topic/653980)  
+### My Post from TPL community  
+### [POST: TP Link XC220 G3v V2 Firmware update - Home Network Community (tp-link.com)](https://community.tp-link.com/en/home/forum/topic/653980)  
 
 <!--
 POST: TP Link XC220 G3v V2 Firmware update - Home Network Community (tp-link.com)
